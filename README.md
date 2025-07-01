@@ -10,14 +10,14 @@
 ---
 
 🔭 I'm a frontend-focused developer from the Philippines, passionate about building responsive and accessible web apps using **React** and **modern JavaScript**.  
-🛠️ Currently sharpening my skills in **Next.js**, **Node.js**, and **cloud deployment platforms** like Vercel and Render.  
+🛠️ Currently sharpening my skills in **React.js**, **Tailwind CSS**, and **CMS platforms** like Wordpress.  
 🎯 Always striving to write clean, scalable code and turn ideas into functional, user-friendly designs.
 
 ---
 
 ### 🧰 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mysql,firebase,figma,git,github,vercel,netlify,cloudinary" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mysql,firebase,figma,git,github,vercel,netlify,cloudinary" />
 </p>
 
 ---
