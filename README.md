@@ -32,15 +32,9 @@
 
 ### 📊 GitHub Stats
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 2%;">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Jhesttt&show_icons=true&theme=tokyonight&hide_border=true"
-    style="flex: 1; max-width: 48%; height: auto;" />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhesttt&layout=compact&theme=tokyonight&hide_border=true"
-    style="flex: 1; max-width: 48%; height: auto;" />
-</div>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhesttt&layout=compact&theme=tokyonight&hide_border=true"
+  style="width: 100%; height: auto; display: block;" />
 
 
 ---
