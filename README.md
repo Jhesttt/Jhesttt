@@ -16,15 +16,9 @@
 
 ---
 
-💡 I'm a frontend-focused developer from the Philippines, passionate about building **responsive**, **accessible**, and **user-friendly** web apps.
-
-🚀 Currently learning and improving in:
-- 🔧 ReactJS + Next.js
-- 🎨 Tailwind CSS + Figma
-- 🛠 MongoDB + MySQL
-- 🌐 CMS like WordPress
-
-I enjoy transforming clean UI designs into **functional** websites with smooth user experiences!
+🔭 I'm a frontend-focused developer from the Philippines, passionate about building responsive and accessible web apps using **React** and **modern JavaScript**.  
+🛠️ Currently sharpening my skills in **Next.js**, **Node.js**, and **cloud deployment platforms** like Vercel and Render.  
+🎯 Always striving to write clean, scalable code and turn ideas into functional, user-friendly designs.
 
 ---
 
@@ -38,18 +32,10 @@ I enjoy transforming clean UI designs into **functional** websites with smooth u
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jhesttt&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<div display="flex" align-items="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jhesttt&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhesttt&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-### 📈 Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jhesttt&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor badge"/>
-</p>
+</div>
 
 ---
 
