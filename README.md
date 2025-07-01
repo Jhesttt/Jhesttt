@@ -32,16 +32,11 @@
 
 ### 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhesttt&layout=compact&theme=tokyonight&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Jhesttt&show_icons=true&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhesttt&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jhesttt&show_icons=true&theme=tokyonight&hide_border=true" width="50%" />
+</p>
+
 
 
 
