@@ -43,10 +43,3 @@
 ---
 
 > _"Turning clean design into functional code, one commit at a time."_
-
----
-
-### 💬 Let's Connect!
-- 💼 [Portfolio](https://jhestin.vercel.app/)
-- 📧 [jhestindigap@gmail.com](mailto:jhestindigap@gmail.com)
-- 📷 [Instagram](https://instagram.com/jhest.digap)
