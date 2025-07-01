@@ -9,12 +9,6 @@
 <h1>Hi there 👋, I'm Jhestin</h1>
 <h3>Front-End Web Developer | UI/UX Designer | BS Computer Engineering Graduate</h3>
 
-<p>
-  <a href="https://jhestin.vercel.app/" target="_blank">🌐 Portfolio</a> • 
-  <a href="mailto:jhestindigap@gmail.com">📩 Email</a> • 
-  <a href="https://github.com/Jhesttt" target="_blank">💻 GitHub</a>
-</p>
-
 ---
 
 🔭 I'm a frontend-focused developer from the Philippines, passionate about building responsive and accessible web apps using **React** and **modern JavaScript**.  
