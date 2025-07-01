@@ -1,7 +1,8 @@
 <!-- Clickable banner -->
 <p align="center">
   <a href="https://jhestin.vercel.app/" target="_blank">
-    <img src="https://github.com/Jhesttt/Jhesttt/banner.png" alt="Jhestin Digap Banner" />
+    <img src="https://github.com/Jhesttt/banner.png](https://github.com/Jhesttt/Jhesttt/blob/main/banner.png" alt="Jhestin Digap Banner" />
+    
   </a>
 </p>
 
