@@ -25,16 +25,24 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mysql,mongodb,firebase,figma,git,github,vercel,netlify,cloudinary" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mysql,mongodb,firebase,figma,git,github,vercel,netlify" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhesttt&layout=compact&theme=tokyonight&hide_border=true"
-  style="width: 100%; height: auto; display: block;" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhesttt&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Jhesttt&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
 
 
 ---
